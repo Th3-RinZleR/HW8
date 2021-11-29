@@ -36,7 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Index.html" />
+    <Content Include="index.html" />
     <Content Include="About.html" />
     <Content Include="Projects.html" />
     <Content Include="Skill sets.html" />
